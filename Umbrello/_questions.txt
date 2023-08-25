@@ -1,0 +1,4 @@
+1.use case disagram for onli9ne voting system
+2.use case diagram for library management system
+3.draw and avlidate flowchart to compute quotient and remainder between two integers can be calculated 	by using the division and modulus operators respectively
+4.flow chart for even or odd using raptor
