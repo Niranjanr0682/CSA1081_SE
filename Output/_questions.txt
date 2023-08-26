@@ -7,3 +7,11 @@
 06.Use case for hospital management system 
 07.Find Odd series of given number using raptor
 08.Flow chart to check given number is prime or not using raptor
+09.Class diagram for Airline reservation system
+10.Class diagram for Online voting system
+11.Flow chart for Factorial of given number
+12.Flow chart for to find string length
+13.
+14.
+15.
+
