@@ -1,4 +1,4 @@
-01.use case disagram for onli9ne voting system
+01.use case disagram for online voting system
 02.use case diagram for library management system
 03.draw and a vlidate flowchart to compute quotient and remainder between two integers
 	can be calculated by using the division and modulus operators respectively
@@ -11,7 +11,22 @@
 10.Class diagram for Online voting system
 11.Flow chart for Factorial of given number
 12.Flow chart for to find string length
-13.
-14.
-15.
+13.Activity diagram for Hotel management
+14.Use case diagram for ATM system
+15.Flowchart for Palindrome
+16.Flowchart for Strings of lower case
+17.Activity diagram for online railway reservation system
+18.Activity diagram for library management system
+19.Flow chart to calculate the sum of N integer
+20.Flowchart for multiplication table
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
 
